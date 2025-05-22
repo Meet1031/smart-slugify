@@ -1,6 +1,6 @@
 {
   "name": "smart-slugify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A smart slugify function for human-friendly, clean, and multilingual URLs.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
