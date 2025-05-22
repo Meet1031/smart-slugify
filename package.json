@@ -19,7 +19,7 @@
   "author": "Meet Kakadiya",
   "license": "MIT",
   "dependencies": {
-    "smart-slugify": "^1.0.0"
+    "smart-slugify": "^1.0.2"
   },
   "devDependencies": {
     "typescript": "^5.8.3"
