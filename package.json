@@ -1,0 +1,24 @@
+{
+  "name": "smart-slugify",
+  "version": "1.0.0",
+  "description": "A smart slugify function for human-friendly, clean, and multilingual URLs.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "slugify",
+    "slug",
+    "seo",
+    "url",
+    "text",
+    "smart",
+    "unicode"
+  ],
+  "author": "Meet Kakadiya",
+  "license": "MIT",
+  "dependencies": {
+    "smart-slugify": "^1.0.0"
+  }
+}
